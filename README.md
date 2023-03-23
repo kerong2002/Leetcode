@@ -4,3 +4,4 @@
 <img src="https://stats.justsong.cn/api/leetcode/?username=krameri120&theme=jolly&hide_border=true" alt="krameri120's LeetCode Stats" width="70%" /> 
 
 ![](https://i.imgur.com/kApUvvh.gif)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
