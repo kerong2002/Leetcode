@@ -14,5 +14,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMITTER_USERNAME: "kerong2002"
           COMMITTER_EMAIL: "krameri120@gmail.com"
-          COMMIT_REPO: "Leetcode"
+          COMMIT_REPO: "Leetcode/C++"
           COMMIT_OWNER: "kerong2002"
