@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Updates_README
-        uses: kerong2002/github_action@main
+        uses: kerong2002/github_action@v1.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMITTER_USERNAME: "kerong2002"
