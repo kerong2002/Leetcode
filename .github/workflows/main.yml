@@ -16,4 +16,4 @@ jobs:
           COMMITTER_EMAIL: "krameri120@gmail.com"
           COMMIT_REPO: "Leetcode"
           COMMIT_OWNER: "kerong2002"
-          COMMIT_PATH: "c++"
+          COMMIT_PATH: "C++"
